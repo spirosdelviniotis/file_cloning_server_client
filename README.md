@@ -1,2 +1,5 @@
-# file_cloning_server_client
-File cloning on Client-Server architecture
+# Project for Systems Programming
+
+**Subject of Systems Programming - University of Athens, Department of Informatics and Telecommunications**
+
+File cloning on Client-Server architecture. Using C, POSIX, TCP, Sockets etc.
